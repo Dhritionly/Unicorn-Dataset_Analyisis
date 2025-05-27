@@ -1,3 +1,7 @@
+How to open this ? 
+
+Click on the " .ipymb "  file to open the preview of the work.
+
 How to run This ? 
 
  To Run This code properly you have to use a python notebook reader like Jypter Notebook
