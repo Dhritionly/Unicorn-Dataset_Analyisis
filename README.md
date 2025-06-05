@@ -1,8 +1,8 @@
-How to open this ? 
+# How to open this ? 
 
 Click on the " .ipynb "  file to open the preview of the work.
 
-How to run This ? 
+### How to run This ? 
 
  To Run This code properly you have to use a python notebook reader like Jypter Notebook
  or Google Colab.
@@ -10,7 +10,7 @@ How to run This ?
  I am choosing Google Colab as it's free & no need to do complex setup like Jypter Notebook.
  Make sure you have a Google Account !
  
- Link of Google Colab - https://colab.research.google.com/drive/18iA0KiNmMmWHEO5X7rVBTpJKwEkFWnes?authuser=0
+ ### Link of Google Colab - https://colab.research.google.com/drive/18iA0KiNmMmWHEO5X7rVBTpJKwEkFWnes?authuser=0
  
  Open this link and sign in using your existing Google Account.
  Now, openNotebook you can see an Interface like this.
