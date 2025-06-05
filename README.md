@@ -1,6 +1,6 @@
 # How to open this ? 
 
-`Click on the " .ipynb "  file to open the preview of the work.`
+`Click on the " Unicorn_dataset_analysis_1.ipynb "  file to open the preview of the work.`
 
 ### How to run This ? 
 
